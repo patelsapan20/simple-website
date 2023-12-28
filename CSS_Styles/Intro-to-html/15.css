@@ -1,0 +1,26 @@
+
+.closeButton{
+  background-color: black;
+  color: white;
+  display: flex;
+  top: 15px;
+  right: 15px;
+  position: absolute;
+  height: 45px;
+  width: 45px;
+  border-radius: 25px;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.stick{
+  position: fixed;
+  background-color: lightblue;
+  height: 180px;
+  width: 320px;
+  bottom: 15px;
+  right: 15px;
+
+}

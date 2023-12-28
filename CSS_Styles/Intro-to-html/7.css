@@ -1,0 +1,114 @@
+
+.image{
+  width: 200px;
+  border-radius: 15px;
+}
+
+.image-1{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  margin-left: 40px;
+
+}
+
+.image-2{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-top: 50px;
+  margin-left: 50px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.search{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  font-size: 20px;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  border-width: 1px;
+  margin-left: 250px;
+}
+
+.search1{
+  margin-left: 25%;
+  width: 500px;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 20px;
+  font-size: 20px;
+  border-radius: 30px;
+  box-shadow: 0 1px 10px rgba(0,0,0,0.25)
+
+  
+}
+
+.email{
+  margin-bottom: 5px;
+  font-family: Arial;
+
+}
+
+.t1{
+  border-style: solid;
+  padding-top: 7px;
+  font-size: 16px;
+  padding-bottom: 7px;
+  width: 370px;
+  border-radius: 5px;
+  border-width: 2px;
+  border-color: black;
+  margin-top: 0;
+}
+
+
+
+.butt{
+  background-color: rgba(0, 0, 255, 0.66);
+  color: white;
+  font-size: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 130px;
+  padding-right: 130px;
+  border: none;
+  border-radius: 30px;
+
+}
+
+.profile-picture {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.text-box {
+  font-size: 18px;
+  border: none;
+  width: 300px;
+  vertical-align: middle;
+}
+
+.tweet-button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: bold;
+  vertical-align: middle;
+}

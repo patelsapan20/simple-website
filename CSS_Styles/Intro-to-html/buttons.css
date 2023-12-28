@@ -1,0 +1,85 @@
+.subscribe-button{
+  background-color: rgb(200, 0, 0);
+  color: white;
+  border: none;
+  
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 12px;
+  transition: opacity 0.15s;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  
+}
+
+.subscribe-button:hover{
+  opacity: 0.8;
+}
+
+.subscribe-button:active{
+  opacity: 0.5;
+}
+
+.subscribe-button1{
+  background-color: white;
+  color: blue;
+  border-color: blue;
+  margin-right: 12px;
+
+  
+  padding-left: 15px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-right: 15px;
+  border-radius: 2px;
+  border-style: solid;
+  border-width: 1px;
+  cursor: pointer;
+
+  transition: background-color 0.15s;
+  color: 0.15s;
+
+
+}
+
+.subscribe-button1:hover{
+  background-color:blue ;
+  color: white;
+  
+}
+
+.subscribe-button1:active{
+  opacity: 0.5;
+}
+
+
+
+
+
+.subscribe-button2{
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 18px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  vertical-align: top;
+  transition: box-shadow 0.15s;
+  
+}
+
+.subscribe-button2:hover{
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.15);
+
+}
+.subscribe-button2:active{
+  opacity: 0.6;
+}
